@@ -17,6 +17,7 @@
 │     └──他機関 資料(知識収集の際に参考になった、他機関の文献)
 ├──text(docやtxtなどの文書類)
 ├──thesis(卒論本文TeX全ソース)
+├──README.md
 ├──essentials.txt(研究の概要)
-└──README.md
+└──卒論テンプレート.zip(Windows用TeXの必要物詰め合わせ)
 ```
